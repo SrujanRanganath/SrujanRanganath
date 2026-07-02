@@ -70,7 +70,7 @@ Healthcare interoperability system mapping NAMASTE Ayurvedic codes to ICD-11, ge
 
 `FastAPI` `MongoDB Atlas` `Sentence-Transformers` `JWT`
 
-[**View Repository →**](https://github.com/SrujanRanganath/ayushbridge)
+[**View Repository **](https://github.com/SrujanRanganath/ayushbridge)
 
 </td>
 <td width="50%">
@@ -80,7 +80,7 @@ A structured workspace for building, testing, and deploying end-to-end AI and ma
 
 `Python` `Machine Learning` `AI Engineering`
 
-[**View Repository →**](https://github.com/SrujanRanganath/AI-engineering-workspace)
+[**View Repository **](https://github.com/SrujanRanganath/AI-engineering-workspace)
 </td>
 </tr>
 <tr>
@@ -91,7 +91,7 @@ Complete solutions and progress tracker for Striver's A2Z DSA course — 450+ pr
 
 `C++` `Data Structures` `Algorithms`
 
-[**View Repository →**][(https://github.com/SrujanRanganath/Striver-DSA)]
+[**View Repository **](https://github.com/SrujanRanganath/Striver-DSA)
 
 </td>
 <td width="50%">
@@ -123,12 +123,17 @@ Complete solutions and progress tracker for Striver's A2Z DSA course — 450+ pr
 
 
 
+---
+
 <div align="center">
 
-### "Learning. Building. Improving. Every day."
+### 💡
 
-<br/>
+> **"Learning. Building. Improving. Every day."**
 
+<img src="https://komarev.com/ghpvc/?username=SrujanRanganath&style=flat-square&color=blue&label=Profile+Views"/>
+
+</div>
 <img src="https://komarev.com/ghpvc/?username=SrujanRanganath&style=flat-square&color=1e293b&label=Profile+Views" />
 
 <br/><br/>
