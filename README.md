@@ -125,19 +125,18 @@ Complete solutions and progress tracker for Striver's A2Z DSA course — 450+ pr
 
 ---
 
+---
+
 <div align="center">
 
-### 💡
+> ### **"Learning. Building. Improving. Every day."**
 
-> **"Learning. Building. Improving. Every day."**
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=SrujanRanganath&style=flat-square&color=blue&label=Profile+Views"/>
 
-</div>
-<img src="https://komarev.com/ghpvc/?username=SrujanRanganath&style=flat-square&color=1e293b&label=Profile+Views" />
+<br><br>
 
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer"/>
 
 </div>
