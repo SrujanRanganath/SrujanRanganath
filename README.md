@@ -8,12 +8,15 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/srujan-ranganath-46353130a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-<a href="https://github.com/SrujanRanganath"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/srujan-ranganath-46353130a/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SrujanRanganath">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -21,20 +24,19 @@
 
 ## About Me
 
-```yaml
-name: Srujan Ranganath
-location: Hassan, Karnataka, India
-education:
-  - degree: B.E. Computer Science Engineering
-    institute: RIT Hassan (VTU)
-  - degree: BS in Data Science and Applications
-    institute: IIT Madras
-focus: [AI/ML, DSA, Backend & Full Stack Development, Open Source]
-currently_solving: Striver's A2Z DSA Sheet (C++)
-goal: Become an AI Engineer and crack product-based companies
-```
+## About Me
 
-<br/>
+I'm **Srujan Ranganath**, a Computer Science Engineering student at **RIT Hassan (VTU)** and a **BS in Data Science** student at **IIT Madras**.
+
+I'm passionate about Artificial Intelligence, Data Structures & Algorithms, and building real-world software.
+
+Currently I am:
+- 🚀 Solving the Striver A2Z DSA Sheet
+- 🤖 Building AI projects
+- 📚 Learning Machine Learning & System Design
+- 💻 Exploring Full Stack Development
+
+My goal is to become an **AI Engineer** and build impactful software products.
 
 ## Tech Stack
 
@@ -63,38 +65,38 @@ goal: Become an AI Engineer and crack product-based companies
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
 ### AyushBridge
 Healthcare interoperability system mapping NAMASTE Ayurvedic codes to ICD-11, generating FHIR R4 bundles for Ayushman Bharat Digital Mission compliance.
 
 `FastAPI` `MongoDB Atlas` `Sentence-Transformers` `JWT`
 
-[**View Repository **](https://github.com/SrujanRanganath/ayushbridge)
+[**View Repository → **](https://github.com/SrujanRanganath/ayushbridge)
 
 </td>
-<td width="50%">
+<td width="100%">
 
 ### AI Engineering Workspace
 A structured workspace for building, testing, and deploying end-to-end AI and machine learning projects.
 
 `Python` `Machine Learning` `AI Engineering`
 
-[**View Repository **](https://github.com/SrujanRanganath/AI-engineering-workspace)
+[**View Repository  → **](https://github.com/SrujanRanganath/AI-engineering-workspace)
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="100%">
 
 ### Striver A2Z DSA Sheet
 Complete solutions and progress tracker for Striver's A2Z DSA course — 450+ problems in C++.
 
 `C++` `Data Structures` `Algorithms`
 
-[**View Repository **](https://github.com/SrujanRanganath/Striver-DSA)
+[**View Repository → **](https://github.com/SrujanRanganath/Striver-DSA)
 
 </td>
-<td width="50%">
+<td width="100%">
 
 
 
@@ -116,7 +118,7 @@ Complete solutions and progress tracker for Striver's A2Z DSA course — 450+ pr
 
 </div>
 
-<br/><div align="center">
+<div align="center">
 
 <h3><i>Learning. Building. Improving. Every day.</i></h3>
 
@@ -124,7 +126,6 @@ Complete solutions and progress tracker for Striver's A2Z DSA course — 450+ pr
 
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=SrujanRanganath&style=flat-square&color=blue&label=Profile+Views"/>
-
 <br>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer"/>
