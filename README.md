@@ -80,8 +80,7 @@ A structured workspace for building, testing, and deploying end-to-end AI and ma
 
 `Python` `Machine Learning` `AI Engineering`
 
-[**View Repository →**](https://github.com/SrujanRanganath)
-
+[**View Repository →**](https://github.com/SrujanRanganath/AI-engineering-workspace)
 </td>
 </tr>
 <tr>
@@ -92,17 +91,12 @@ Complete solutions and progress tracker for Striver's A2Z DSA course — 450+ pr
 
 `C++` `Data Structures` `Algorithms`
 
-[**View Repository →**](https://github.com/SrujanRanganath)
+[**View Repository →**][(https://github.com/SrujanRanganath/Striver-DSA)]
 
 </td>
 <td width="50%">
 
-### Daily Ledger
-A personal habit-tracking web app for daily self-monitoring, built full-stack from concept to deployment.
 
-`React` `FastAPI` `MongoDB`
-
-[**View Repository →**](https://github.com/SrujanRanganath)
 
 </td>
 </tr>
@@ -139,36 +133,7 @@ A personal habit-tracking web app for daily self-monitoring, built full-stack fr
 
 <br/>
 
-## Contribution Graph
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SrujanRanganath/SrujanRanganath/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
-> To activate the snake animation above, add the workflow from [Platane/snk](https://github.com/Platane/snk) to this repository — it auto-generates on push.
-
-<br/>
-
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SrujanRanganath&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" />
-
-</div>
-
-<br/>
-
-## Fun Facts
-
-- Cycles 7km to college every day — consistency over convenience
-- Reads a page of the Bhagavad Gita each morning before starting work
-- Believes in "build mode": ship first, polish later
-- Currently balancing two degrees at once, on purpose
-
-<br/>
 
 <div align="center">
 
