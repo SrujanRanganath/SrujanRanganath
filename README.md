@@ -122,9 +122,13 @@ Complete solutions and progress tracker for Striver's A2Z DSA course — 450+ pr
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SrujanRanganath&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=94A3B8&icon_color=94A3B8&text_color=cbd5e1" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrujanRanganath&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=94A3B8&text_color=cbd5e1" />
+<div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SrujanRanganath&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrujanRanganath&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=SrujanRanganath&theme=dark&hide_border=true&background=0D1117&stroke=94A3B8&ring=94A3B8&fire=e2e8f0&currStreakLabel=e2e8f0" />
@@ -137,7 +141,7 @@ Complete solutions and progress tracker for Striver's A2Z DSA course — 450+ pr
 
 <div align="center">
 
-### "The successful warrior is the average person with laser-like focus."
+### "Learning. Building. Improving. Every day."
 
 <br/>
 
