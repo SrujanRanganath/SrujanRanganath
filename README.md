@@ -116,22 +116,13 @@ Complete solutions and progress tracker for Striver's A2Z DSA course — 450+ pr
 
 </div>
 
-<br/>
+<br/><div align="center">
 
+<h3><i>Learning. Building. Improving. Every day.</i></h3>
 
+<img src="https://komarev.com/ghpvc/?username=SrujanRanganath&style=flat-square&label=Profile+Views"/>
 
-
-
-
----
-
----
-
-<div align="center">
-
-> ### **"Learning. Building. Improving. Every day."**
-
-<br>
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=SrujanRanganath&style=flat-square&color=blue&label=Profile+Views"/>
 
