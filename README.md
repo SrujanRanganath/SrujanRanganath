@@ -22,7 +22,6 @@
 
 <br/>
 
-## About Me
 
 ## About Me
 
@@ -65,7 +64,7 @@ My goal is to become an **AI Engineer** and build impactful software products.
 
 <table>
 <tr>
-<td width="100%">
+<td>
 
 ### AyushBridge
 Healthcare interoperability system mapping NAMASTE Ayurvedic codes to ICD-11, generating FHIR R4 bundles for Ayushman Bharat Digital Mission compliance.
@@ -75,7 +74,7 @@ Healthcare interoperability system mapping NAMASTE Ayurvedic codes to ICD-11, ge
 [**View Repository → **](https://github.com/SrujanRanganath/ayushbridge)
 
 </td>
-<td width="100%">
+<td>
 
 ### AI Engineering Workspace
 A structured workspace for building, testing, and deploying end-to-end AI and machine learning projects.
@@ -86,7 +85,7 @@ A structured workspace for building, testing, and deploying end-to-end AI and ma
 </td>
 </tr>
 <tr>
-<td width="100%">
+<td >
 
 ### Striver A2Z DSA Sheet
 Complete solutions and progress tracker for Striver's A2Z DSA course — 450+ problems in C++.
@@ -96,7 +95,7 @@ Complete solutions and progress tracker for Striver's A2Z DSA course — 450+ pr
 [**View Repository → **](https://github.com/SrujanRanganath/Striver-DSA)
 
 </td>
-<td width="100%">
+<td>
 
 
 
