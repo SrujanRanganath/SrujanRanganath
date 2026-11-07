@@ -1,3 +1,4 @@
+```html
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1120&height=190&section=header&text=SRUJAN%20RANGANATH&fontSize=44&fontColor=E2E8F0&fontAlignY=40&desc=AI%20%7C%20SOFTWARE%20ENGINEERING%20%7C%20DATA%20SCIENCE&descSize=14&descAlignY=65" />
@@ -74,17 +75,19 @@ Indian Institute of Technology Madras
 
 Healthcare interoperability platform connecting AYUSH medical terminology with ICD-11 and HL7 FHIR R4.
 
-**Core Features**
+**CORE FEATURES**
 
 - NAMASTE ↔ ICD-11 mapping
 - FHIR R4 bundle generation
 - Medical terminology processing
 - Healthcare interoperability
 
-**Technologies**
+**TECHNOLOGIES**
 
-`Python` `FastAPI`  
-`MongoDB Atlas` `NLP`  
+`Python` `FastAPI`
+
+`MongoDB Atlas` `NLP`
+
 `Sentence Transformers` `JWT`
 
 <br/>
@@ -101,7 +104,7 @@ Healthcare interoperability platform connecting AYUSH medical terminology with I
 
 A full-stack AI development platform bringing multiple software engineering workflows into one workspace.
 
-**Core Features**
+**CORE FEATURES**
 
 - AI website generator
 - AI code generator
@@ -109,10 +112,12 @@ A full-stack AI development platform bringing multiple software engineering work
 - AI data cleaner
 - Integrated AI workflows
 
-**Technologies**
+**TECHNOLOGIES**
 
-`React` `TypeScript`  
-`Python` `FastAPI`  
+`React` `TypeScript`
+
+`Python` `FastAPI`
+
 `PostgreSQL` `LLM APIs`
 
 <br/>
@@ -129,7 +134,7 @@ A full-stack AI development platform bringing multiple software engineering work
 
 A structured C++ problem-solving repository following Striver's A2Z DSA roadmap.
 
-**Focus Areas**
+**FOCUS AREAS**
 
 - Arrays and strings
 - Binary search and sorting
@@ -138,9 +143,10 @@ A structured C++ problem-solving repository following Striver's A2Z DSA roadmap.
 - Trees and graphs
 - Dynamic programming
 
-**Technologies**
+**TECHNOLOGIES**
 
-`C++` `DSA`  
+`C++` `DSA`
+
 `Algorithms` `LeetCode`
 
 <br/>
@@ -161,13 +167,13 @@ A structured C++ problem-solving repository following Striver's A2Z DSA roadmap.
 
 ### LEETCODE
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Statistics"/>
+<a href="https://leetcode.com/u/YBX7MZ2P1V/">
+<img src="https://leetcard.jacoblin.cool/YBX7MZ2P1V?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Statistics"/>
 </a>
 
 <br/><br/>
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+<a href="https://leetcode.com/u/YBX7MZ2P1V/">
 <img src="https://img.shields.io/badge/LEETCODE-VIEW%20PROFILE-1E293B?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
@@ -262,3 +268,4 @@ A structured C++ problem-solving repository following Striver's A2Z DSA roadmap.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1120&height=65&section=footer"/>
 
 </div>
+```
