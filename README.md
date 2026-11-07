@@ -45,7 +45,7 @@
 
 <div align="center">
 
-## 01 — THE ENGINEERING PROFILE
+## 01 — ENGINEERING PROFILE
 
 </div>
 
@@ -102,9 +102,7 @@ Indian Institute of Technology Madras
 <td width="50%" valign="top">
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/PROJECT%2001-HEALTHCARE%20TECH-172554?style=flat-square"/>
-
 </div>
 
 ### AYUSHBRIDGE
@@ -133,22 +131,19 @@ Connecting traditional AYUSH terminology with international healthcare classific
 </a>
 
 </td>
-
 <td width="50%" valign="top">
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/PROJECT%2002-ARTIFICIAL%20INTELLIGENCE-172554?style=flat-square"/>
-
+<img src="https://img.shields.io/badge/PROJECT%2002-AI%20ENGINEERING-172554?style=flat-square"/>
 </div>
 
 ### AI ENGINEERING WORKSPACE
 
 **AI-assisted development environment**
 
-A unified platform bringing multiple AI-powered software development workflows together.
+A unified platform being developed to bring multiple AI-powered software development workflows together.
 
-**SYSTEM CAPABILITIES**
+**PLANNED CAPABILITIES**
 
 - AI website generation
 - AI code generation
@@ -175,9 +170,7 @@ A unified platform bringing multiple AI-powered software development workflows t
 <td width="50%" valign="top">
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/PROJECT%2003-ALGORITHMS-172554?style=flat-square"/>
-
 </div>
 
 ### STRIVER A2Z DSA
@@ -206,18 +199,15 @@ A structured journey through Striver's A2Z Data Structures and Algorithms roadma
 </a>
 
 </td>
-
 <td width="50%" valign="top">
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/PROJECT%2004-EXPLORATION-172554?style=flat-square"/>
-
+<img src="https://img.shields.io/badge/PROJECT%2004-ENGINEERING%20EXPLORATION-172554?style=flat-square"/>
 </div>
 
 ### NEXT ENGINEERING FRONTIER
 
-**Areas under exploration**
+**Areas of exploration**
 
 - Large Language Models
 - Applied machine learning
@@ -270,31 +260,71 @@ A structured journey through Striver's A2Z Data Structures and Algorithms roadma
 
 ## 04 — TECHNICAL ARSENAL
 
-<sub>TOOLS · LANGUAGES · FRAMEWORKS</sub>
+<sub>LANGUAGES · FRAMEWORKS · AI · DATA · DEVELOPER TOOLS</sub>
 
 <br/><br/>
 
 ### PROGRAMMING LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts&theme=dark"/>
 
 <br/><br/>
 
-### FRAMEWORKS & DEVELOPMENT
+### FRONTEND DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tailwind&theme=dark"/>
-
-<br/><br/>
-
-### DATABASES & ENVIRONMENT
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark"/>
 
 <br/><br/>
 
-### DATA & ANALYTICS
+### BACKEND DEVELOPMENT
 
-<img src="https://img.shields.io/badge/POWER%20BI-0B1220?style=for-the-badge&logo=powerbi&logoColor=67E8F9"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/PRISMA-0B1220?style=for-the-badge&logo=prisma&logoColor=white"/>
+
+<br/><br/>
+
+### DATABASES & DATA MANAGEMENT
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark"/>
+
+<br/><br/>
+
+### ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+
+<img src="https://img.shields.io/badge/OPENAI%20API-0B1220?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/GOOGLE%20GEMINI-0B1220?style=for-the-badge&logo=googlegemini&logoColor=8AB4F8"/>
+<img src="https://img.shields.io/badge/LANGCHAIN-0B1220?style=for-the-badge&logo=chainlink&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/OLLAMA-0B1220?style=for-the-badge&logo=ollama&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-0B1220?style=for-the-badge&logo=scikitlearn&logoColor=F89939"/>
+<img src="https://img.shields.io/badge/STREAMLIT-0B1220?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
+
+<br/><br/>
+
+### AI DEVELOPMENT TOOLS
+
+<img src="https://img.shields.io/badge/CLAUDE%20AI-0B1220?style=for-the-badge&logo=anthropic&logoColor=D97757"/>
+<img src="https://img.shields.io/badge/CURSOR-0B1220?style=for-the-badge&logo=cursor&logoColor=white"/>
+
+<br/><br/>
+
+### DATA ANALYTICS & DESIGN
+
+<img src="https://img.shields.io/badge/POWER%20BI-0B1220?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+<img src="https://img.shields.io/badge/FIGMA-0B1220?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+
+<br/><br/>
+
+### DEVELOPER TOOLS & DEPLOYMENT
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark"/>
+
+<img src="https://img.shields.io/badge/RENDER-0B1220?style=for-the-badge&logo=render&logoColor=white"/>
 
 </div>
 
@@ -359,11 +389,25 @@ A structured journey through Striver's A2Z Data Structures and Algorithms roadma
 
 ## 07 — CONTRIBUTION ANIMATION
 
-<sub>EVERY CONTRIBUTION MOVES THE JOURNEY FORWARD</sub>
+<sub>EVERY CONTRIBUTION BUILDS THE JOURNEY</sub>
 
 <br/><br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/SrujanRanganath/SrujanRanganath/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/SrujanRanganath/SrujanRanganath/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/SrujanRanganath/SrujanRanganath/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/SrujanRanganath/SrujanRanganath/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
+</picture>
 
 </div>
 
