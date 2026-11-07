@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1120&height=190&section=header&text=SRUJAN%20RANGANATH&fontSize=44&fontColor=E2E8F0&fontAlignY=40&desc=AI%20%7C%20SOFTWARE%20ENGINEERING%20%7C%20DATA%20SCIENCE&descSize=14&descAlignY=65" />
