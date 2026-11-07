@@ -1,31 +1,43 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:172554,100:0369A1&height=250&section=header&text=SRUJAN%20RANGANATH&fontSize=48&fontColor=E0F2FE&fontAlignY=37&desc=SOFTWARE%20ENGINEERING%20%7C%20ARTIFICIAL%20INTELLIGENCE&descSize=15&descAlignY=57&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0B1B3A,65:172554,100:312E81&height=260&section=header&text=SRUJAN%20RANGANATH&fontSize=49&fontColor=F0F9FF&fontAlignY=36&desc=ENGINEERING%20INTELLIGENCE.%20BUILDING%20THE%20FUTURE.&descSize=14&descAlignY=57&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=Computer+Science+Engineer;IIT+Madras+%7C+BS+Data+Science;Building+AI-Powered+Software;Full-Stack+Development+%7C+Machine+Learning;Turning+Ideas+Into+Working+Systems" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=800&color=67E8F9&center=true&vCenter=true&width=800&height=55&lines=Computer+Science+Engineer;IIT+Madras+%7C+BS+Data+Science;AI+Engineering+%7C+Software+Development;Building+Intelligent+Applications;From+Ideas+to+Real+World+Systems" alt="Animated introduction"/>
 
 <br/><br/>
 
 <a href="https://srujan-ranganath-portfolio.ai.studio/">
-<img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-0B1120?style=for-the-badge&logo=googlechrome&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-0B1220?style=for-the-badge&logo=googlechrome&logoColor=67E8F9"/>
 </a>
 <a href="https://www.linkedin.com/in/srujan-ranganath-46353130a/">
-<img src="https://img.shields.io/badge/LINKEDIN-0B1120?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0B1220?style=for-the-badge&logo=linkedin&logoColor=67E8F9"/>
 </a>
 <a href="https://github.com/SrujanRanganath">
-<img src="https://img.shields.io/badge/GITHUB-0B1120?style=for-the-badge&logo=github&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-0B1220?style=for-the-badge&logo=github&logoColor=67E8F9"/>
 </a>
 <a href="https://leetcode.com/u/YBX7MZ2P1V/">
-<img src="https://img.shields.io/badge/LEETCODE-0B1120?style=for-the-badge&logo=leetcode&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/LEETCODE-PROFILE-0B1220?style=for-the-badge&logo=leetcode&logoColor=67E8F9"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/COMPUTER%20SCIENCE-VTU-172554?style=flat-square&labelColor=020617"/>
-<img src="https://img.shields.io/badge/DATA%20SCIENCE-IIT%20MADRAS-172554?style=flat-square&labelColor=020617"/>
-<img src="https://img.shields.io/badge/OPEN%20TO-SOFTWARE%20%26%20AI%20INTERNSHIPS-172554?style=flat-square&labelColor=020617"/>
+<img src="https://img.shields.io/badge/COMPUTER%20SCIENCE-VTU-172554?style=flat-square"/>
+<img src="https://img.shields.io/badge/DATA%20SCIENCE-IIT%20MADRAS-172554?style=flat-square"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20SOFTWARE-172554?style=flat-square"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+`> SYSTEM STATUS: BUILDING`
+
+`> DOMAIN: ARTIFICIAL INTELLIGENCE`
+
+`> MODE: LEARN / ENGINEER / DEPLOY`
 
 </div>
 
@@ -33,7 +45,7 @@
 
 <div align="center">
 
-### 001 — ENGINEERING PROFILE
+## 01 — THE ENGINEERING PROFILE
 
 </div>
 
@@ -41,9 +53,9 @@
 <tr>
 <td width="50%" valign="top">
 
-**EDUCATION**
+### COMPUTER SCIENCE
 
-B.E. Computer Science & Engineering
+**B.E. — Computer Science & Engineering**
 
 Rajeev Institute of Technology, Hassan
 
@@ -52,9 +64,9 @@ Visvesvaraya Technological University
 </td>
 <td width="50%" valign="top">
 
-**DATA SCIENCE**
+### DATA SCIENCE
 
-BS in Data Science
+**BS — Data Science**
 
 Indian Institute of Technology Madras
 
@@ -64,14 +76,14 @@ Indian Institute of Technology Madras
 
 <div align="center">
 
-**CORE INTERESTS**
+### ENGINEERING INTERESTS
 
-<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-0B1120?style=for-the-badge&logo=openai&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-0B1120?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/DATA%20SCIENCE-0B1120?style=for-the-badge&logo=python&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-0B1220?style=for-the-badge&logo=openai&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-0B1220?style=for-the-badge&logo=visualstudiocode&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-0B1220?style=for-the-badge&logo=scikitlearn&logoColor=67E8F9"/>
 
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-0B1120?style=for-the-badge&logo=scikitlearn&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/FULL--STACK%20DEVELOPMENT-0B1120?style=for-the-badge&logo=react&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/FULL--STACK%20DEVELOPMENT-0B1220?style=for-the-badge&logo=react&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/DATA%20SCIENCE-0B1220?style=for-the-badge&logo=python&logoColor=67E8F9"/>
 
 </div>
 
@@ -79,7 +91,9 @@ Indian Institute of Technology Madras
 
 <div align="center">
 
-### 002 — SELECTED PROJECTS
+## 02 — SELECTED ENGINEERING WORK
+
+<sub>DESIGNING · DEVELOPING · EXPERIMENTING</sub>
 
 </div>
 
@@ -88,43 +102,53 @@ Indian Institute of Technology Madras
 <td width="50%" valign="top">
 
 <div align="center">
-<img src="https://img.shields.io/badge/01-HEALTHCARE%20INTEROPERABILITY-172554?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/PROJECT%2001-HEALTHCARE%20TECH-172554?style=flat-square"/>
+
 </div>
 
 ### AYUSHBRIDGE
 
-A healthcare interoperability platform connecting AYUSH terminology with international healthcare classification standards.
+**Healthcare interoperability platform**
 
-**CAPABILITIES**
+Connecting traditional AYUSH terminology with international healthcare classification standards.
+
+**SYSTEM CAPABILITIES**
 
 - NAMASTE ↔ ICD-11 mapping
 - HL7 FHIR R4 bundle generation
 - Medical terminology processing
 - Healthcare data interoperability
 
-**TECHNOLOGY**
+**TECH STACK**
 
-`Python` `FastAPI` `MongoDB Atlas`  
-`Sentence Transformers` `FHIR R4`
+`Python` `FastAPI` `MongoDB Atlas`
+
+`Sentence Transformers` `JWT` `FHIR R4`
 
 <br/>
 
 <a href="https://github.com/SrujanRanganath/ayushbridge">
-<strong>EXPLORE PROJECT →</strong>
+<strong>ACCESS REPOSITORY →</strong>
 </a>
 
 </td>
+
 <td width="50%" valign="top">
 
 <div align="center">
-<img src="https://img.shields.io/badge/02-AI%20SOFTWARE%20DEVELOPMENT-172554?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/PROJECT%2002-ARTIFICIAL%20INTELLIGENCE-172554?style=flat-square"/>
+
 </div>
 
 ### AI ENGINEERING WORKSPACE
 
-An AI-powered development environment combining multiple software engineering workflows.
+**AI-assisted development environment**
 
-**CAPABILITIES**
+A unified platform bringing multiple AI-powered software development workflows together.
+
+**SYSTEM CAPABILITIES**
 
 - AI website generation
 - AI code generation
@@ -132,72 +156,81 @@ An AI-powered development environment combining multiple software engineering wo
 - AI data cleaning
 - Integrated AI workflows
 
-**TECHNOLOGY**
+**TECH STACK**
 
-`React` `TypeScript` `Python`  
+`React` `TypeScript` `Python`
+
 `FastAPI` `PostgreSQL` `LLM APIs`
 
 <br/>
 
 <a href="https://github.com/SrujanRanganath/AI-engineering-workspace">
-<strong>EXPLORE PROJECT →</strong>
+<strong>ACCESS REPOSITORY →</strong>
 </a>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 <div align="center">
-<img src="https://img.shields.io/badge/03-ALGORITHMS%20%26%20PROBLEM%20SOLVING-172554?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/PROJECT%2003-ALGORITHMS-172554?style=flat-square"/>
+
 </div>
 
 ### STRIVER A2Z DSA
 
-A C++ problem-solving repository following Striver's A2Z DSA roadmap.
+**C++ problem-solving repository**
+
+A structured journey through Striver's A2Z Data Structures and Algorithms roadmap.
 
 **AREAS**
 
 - Arrays and strings
-- Binary search and sorting
+- Searching and sorting
+- Binary search
 - Linked lists and stacks
 - Recursion and backtracking
-- Trees and graphs
-- Dynamic programming
+- Trees, graphs and dynamic programming
 
-**TECHNOLOGY**
+**TECH STACK**
 
-`C++` `DSA` `Algorithms`
+`C++` `Data Structures` `Algorithms`
 
 <br/>
 
 <a href="https://github.com/SrujanRanganath/Striver-DSA">
-<strong>EXPLORE REPOSITORY →</strong>
+<strong>ACCESS REPOSITORY →</strong>
 </a>
 
 </td>
+
 <td width="50%" valign="top">
 
 <div align="center">
-<img src="https://img.shields.io/badge/04-ENGINEERING%20DIRECTION-172554?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/PROJECT%2004-EXPLORATION-172554?style=flat-square"/>
+
 </div>
 
-### CURRENT EXPLORATION
+### NEXT ENGINEERING FRONTIER
 
-Developing practical skills across modern software and AI engineering.
+**Areas under exploration**
 
-**FOCUS AREAS**
-
-- LLM-powered applications
-- Machine learning systems
+- Large Language Models
+- Applied machine learning
+- Multi-agent AI systems
 - Backend architecture
-- Full-stack development
-- Data-driven applications
+- Scalable software systems
+- Intelligent automation
 
 **DIRECTION**
 
-`AI Engineering` `System Design`  
-`Automation` `Data Science`
+`AI Engineering` `System Design`
+
+`Full-Stack Development` `Data Science`
 
 </td>
 </tr>
@@ -207,21 +240,26 @@ Developing practical skills across modern software and AI engineering.
 
 <div align="center">
 
-### 003 — LEETCODE / PROBLEM SOLVING
+## 03 — PROBLEM SOLVING
 
-<img src="https://img.shields.io/badge/LEETCODE-C%2B%2B-0B1120?style=for-the-badge&logo=leetcode&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/ROADMAP-STRIVER%20A2Z-0B1120?style=for-the-badge"/>
+<sub>CONSISTENCY OVER COMPLEXITY</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/PLATFORM-LEETCODE-0B1220?style=for-the-badge&logo=leetcode&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/PRIMARY%20LANGUAGE-C%2B%2B-0B1220?style=for-the-badge&logo=cplusplus&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/ROADMAP-STRIVER%20A2Z-0B1220?style=for-the-badge"/>
 
 <br/><br/>
 
 <a href="https://leetcode.com/u/YBX7MZ2P1V/">
-<img width="75%" src="https://leetcard.jacoblin.cool/YBX7MZ2P1V?theme=dark&font=Inter&ext=heatmap" alt="LeetCode profile statistics"/>
+<img width="78%" src="https://leetcard.jacoblin.cool/YBX7MZ2P1V?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Statistics"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://leetcode.com/u/YBX7MZ2P1V/">
-<strong>VIEW LEETCODE PROFILE →</strong>
+<strong>OPEN LEETCODE PROFILE →</strong>
 </a>
 
 </div>
@@ -230,31 +268,33 @@ Developing practical skills across modern software and AI engineering.
 
 <div align="center">
 
-### 004 — TECHNOLOGY STACK
+## 04 — TECHNICAL ARSENAL
 
-<br/>
+<sub>TOOLS · LANGUAGES · FRAMEWORKS</sub>
 
-**PROGRAMMING LANGUAGES**
+<br/><br/>
+
+### PROGRAMMING LANGUAGES
 
 <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts&theme=dark"/>
 
 <br/><br/>
 
-**FRAMEWORKS & DEVELOPMENT**
+### FRAMEWORKS & DEVELOPMENT
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tailwind&theme=dark"/>
 
 <br/><br/>
 
-**DATABASES & DEVELOPER TOOLS**
+### DATABASES & ENVIRONMENT
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,github,vscode&theme=dark"/>
 
 <br/><br/>
 
-**DATA & ANALYTICS**
+### DATA & ANALYTICS
 
-<img src="https://img.shields.io/badge/POWER%20BI-0B1120?style=for-the-badge&logo=powerbi&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/POWER%20BI-0B1220?style=for-the-badge&logo=powerbi&logoColor=67E8F9"/>
 
 </div>
 
@@ -262,48 +302,54 @@ Developing practical skills across modern software and AI engineering.
 
 <div align="center">
 
-### 005 — DEVELOPMENT ROADMAP
+## 05 — DEVELOPMENT ROADMAP
+
+</div>
 
 <table>
 <tr>
-<th>DOMAIN</th>
-<th>CURRENT FOCUS</th>
+<th align="left">ENGINEERING DOMAIN</th>
+<th align="left">CURRENT DIRECTION</th>
 </tr>
 <tr>
 <td>Data Structures & Algorithms</td>
-<td>C++ Problem Solving</td>
+<td>C++ problem solving</td>
 </tr>
 <tr>
 <td>Artificial Intelligence</td>
-<td>LLMs & Applied AI</td>
+<td>LLMs and applied AI</td>
 </tr>
 <tr>
 <td>Software Engineering</td>
-<td>Full-Stack Development</td>
+<td>Full-stack development</td>
 </tr>
 <tr>
 <td>Data Science</td>
-<td>Machine Learning</td>
+<td>Machine learning</td>
 </tr>
 <tr>
 <td>System Design</td>
-<td>Architecture & Scalability</td>
+<td>Architecture and scalability</td>
 </tr>
 </table>
 
-</div>
-
 ---
 
 <div align="center">
 
-### 006 — GITHUB ACTIVITY
+## 06 — GITHUB PERFORMANCE
 
-<img width="85%" src="https://streak-stats.demolab.com?user=SrujanRanganath&theme=github-dark-blue&hide_border=true&background=020617&ring=38BDF8&fire=2563EB&currStreakLabel=E0F2FE&sideLabels=94A3B8&dates=64748B"/>
+<sub>ACTIVITY · CONTRIBUTIONS · CONSISTENCY</sub>
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SrujanRanganath&bg_color=020617&color=38BDF8&line=2563EB&point=E0F2FE&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+<img width="85%" src="https://streak-stats.demolab.com?user=SrujanRanganath&theme=github-dark-blue&hide_border=true&background=020617&ring=22D3EE&fire=6366F1&currStreakLabel=67E8F9&sideLabels=94A3B8&dates=64748B"/>
+
+<br/><br/>
+
+<a href="https://github.com/SrujanRanganath?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-0B1220?style=for-the-badge&logo=github&logoColor=67E8F9"/>
+</a>
 
 </div>
 
@@ -311,18 +357,33 @@ Developing practical skills across modern software and AI engineering.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0369A1,45:172554,100:020617&height=170&section=footer"/>
+## 07 — CONTRIBUTION ANIMATION
 
-### THINK DEEPLY. BUILD INTELLIGENTLY. ENGINEER THE FUTURE.
+<sub>EVERY CONTRIBUTION MOVES THE JOURNEY FORWARD</sub>
+
+<br/><br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/SrujanRanganath/SrujanRanganath/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,45:172554,100:020617&height=190&section=footer&animation=fadeIn"/>
+
+### THINK BEYOND CODE.
+### BUILD BEYOND LIMITS.
 
 <br/>
 
 <a href="https://www.linkedin.com/in/srujan-ranganath-46353130a/">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-0B1120?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/CONNECT%20WITH%20ME-0B1220?style=for-the-badge&logo=linkedin&logoColor=67E8F9"/>
 </a>
 
 <br/><br/>
 
-<sub>SRUJAN RANGANATH · SOFTWARE & AI ENGINEERING</sub>
+<sub>SRUJAN RANGANATH | AI & SOFTWARE ENGINEERING</sub>
 
 </div>
