@@ -1,130 +1,212 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Srujan%20Ranganath&fontSize=48&fontColor=e2e8f0&fontAlignY=38&desc=AI%20Engineer%20in%20the%20Making&descAlignY=58&descSize=18&animation=fadeIn" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=B.E.+Computer+Science+Engineering;IIT+Madras+BS+in+Data+Science;Solving+Striver's+A2Z+DSA+Sheet;Building+AI+%2B+Full+Stack+Projects;Open+to+Internships+%26+Collaboration" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0b1120&height=190&section=header&text=SRUJAN%20RANGANATH&fontSize=42&fontColor=e2e8f0&fontAlignY=42&desc=COMPUTER%20SCIENCE%20%7C%20AI%20%7C%20SOFTWARE%20ENGINEERING&descSize=13&descAlignY=66&animation=fadeIn" />
 
 <br/>
 
-<div align="center">
+**Engineering ideas into intelligent software.**
 
-<a href="https://www.linkedin.com/in/srujan-ranganath-46353130a/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/>
 
-<a href="https://github.com/SrujanRanganath">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/srujan-ranganath-46353130a/">LinkedIn</a>
+&nbsp; / &nbsp;
+<a href="https://srujan-ranganath-portfolio.ai.studio/">Portfolio</a>
+&nbsp; / &nbsp;
+<a href="https://github.com/SrujanRanganath">GitHub</a>
 
 </div>
 
 <br/>
 
+## Profile
 
-## About Me
+I'm **Srujan Ranganath**, a Computer Science Engineering student at **Rajeev Institute of Technology, Hassan (VTU)**, also pursuing the **BS in Data Science at IIT Madras**.
 
-I'm **Srujan Ranganath**, a Computer Science Engineering student at **RIT Hassan (VTU)** and a **BS in Data Science** student at **IIT Madras**.
+My interests lie at the intersection of Artificial Intelligence, Data Science, and Software Engineering. I enjoy understanding complex problems, designing practical solutions, and building software that connects technology with real-world applications.
 
-I'm passionate about Artificial Intelligence, Data Structures & Algorithms, and building real-world software.
+My current focus is on strengthening my engineering fundamentals while developing practical experience through projects and problem-solving.
 
-Currently I am:
-- 🚀 Solving the Striver A2Z DSA Sheet
-- 🤖 Building AI projects
-- 📚 Learning Machine Learning & System Design
-- 💻 Exploring Full Stack Development
+**Academic Background**
 
-My goal is to become an **AI Engineer** and build impactful software products.
-
-## Tech Stack
-
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js&theme=dark" />
-
-**Frameworks & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,git,github,tailwind,vscode&theme=dark" />
-
-**Data & Analytics**
-<br/>
-<img src="https://skillicons.dev/icons?i=powerbi&theme=dark" /> &nbsp;
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-</div>
+| Programme | Institution |
+|:---|:---|
+| B.E. Computer Science & Engineering | Rajeev Institute of Technology, VTU |
+| BS in Data Science | Indian Institute of Technology Madras |
 
 <br/>
 
-## Featured Projects
+## Areas of Focus
 
-<div align="center">
+**Artificial Intelligence**  
+AI-powered applications, LLM integration, automation, and applied machine learning.
+
+**Software Engineering**  
+Backend development, API design, full-stack applications, and scalable system architecture.
+
+**Data Science**  
+Python, statistical foundations, data analysis, and machine learning.
+
+**Problem Solving**  
+C++ programming, data structures, algorithms, and competitive coding fundamentals.
+
+<br/>
+
+## Selected Projects
 
 <table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
 ### AyushBridge
-Healthcare interoperability system mapping NAMASTE Ayurvedic codes to ICD-11, generating FHIR R4 bundles for Ayushman Bharat Digital Mission compliance.
 
-`FastAPI` `MongoDB Atlas` `Sentence-Transformers` `JWT`
+A healthcare interoperability platform connecting AYUSH medical terminology with international healthcare classification standards.
 
-[**View Repository → **](https://github.com/SrujanRanganath/ayushbridge)
+**Core Work**
+- NAMASTE to ICD-11 terminology mapping
+- HL7 FHIR R4 resource and bundle generation
+- Healthcare data interoperability
+- Semantic search and medical terminology processing
+
+**Stack**
+
+`Python` `FastAPI` `MongoDB Atlas`  
+`Sentence Transformers` `JWT` `FHIR R4`
+
+<br/>
+
+<a href="https://github.com/SrujanRanganath/ayushbridge">VIEW REPOSITORY →</a>
 
 </td>
-<td>
+<td width="50%" valign="top">
 
 ### AI Engineering Workspace
-A structured workspace for building, testing, and deploying end-to-end AI and machine learning projects.
 
-`Python` `Machine Learning` `AI Engineering`
+An AI-assisted software development platform focused on bringing multiple engineering workflows into a unified environment.
 
-[**View Repository  → **](https://github.com/SrujanRanganath/AI-engineering-workspace)
+**Core Work**
+- AI-assisted project development
+- Code and document generation workflows
+- Data cleaning and processing
+- Integration of AI services and development tools
+
+**Stack**
+
+`Python` `FastAPI` `React`  
+`PostgreSQL` `LLM APIs`
+
+<br/>
+
+<a href="https://github.com/SrujanRanganath/AI-engineering-workspace">VIEW REPOSITORY →</a>
+
 </td>
 </tr>
-<tr>
-<td >
 
-### Striver A2Z DSA Sheet
-Complete solutions and progress tracker for Striver's A2Z DSA course — 450+ problems in C++.
+<tr>
+<td width="50%" valign="top">
+
+### Striver A2Z DSA
+
+A structured C++ repository documenting my problem-solving journey through Striver's A2Z DSA Sheet.
+
+**Focus Areas**
+- Arrays and strings
+- Binary search and sorting
+- Linked lists and stacks
+- Recursion and dynamic programming
+- Trees and graphs
+
+**Stack**
 
 `C++` `Data Structures` `Algorithms`
 
-[**View Repository → **](https://github.com/SrujanRanganath/Striver-DSA)
+<br/>
+
+<a href="https://github.com/SrujanRanganath/Striver-DSA">VIEW REPOSITORY →</a>
 
 </td>
-<td>
+<td width="50%" valign="top">
 
+### Engineering Interests
 
+Beyond individual projects, I am exploring the foundations required to build reliable software systems.
+
+**Exploration**
+- Multi-agent AI systems
+- Backend architecture
+- Machine learning applications
+- Software design principles
+- Developer productivity tools
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+## Technical Toolkit
+
+<div align="center">
+
+**Programming Languages**
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts&theme=dark" />
+
+<br/><br/>
+
+**Frameworks & Development**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tailwind&theme=dark" />
+
+<br/><br/>
+
+**Databases & Developer Tools**
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,github,vscode&theme=dark" />
+
+<br/><br/>
+
+**Analytics**
+
+<img src="https://img.shields.io/badge/Power%20BI-Data%20Analytics-334155?style=flat-square&logo=powerbi&logoColor=white" />
+
 </div>
 
 <br/>
 
-## Currently Learning
+## Current Development
+
+| Domain | Focus |
+|:---|:---|
+| C++ & DSA | Striver A2Z problem-solving practice |
+| Artificial Intelligence | Applied AI and LLM-powered systems |
+| Machine Learning | Mathematical foundations and practical implementation |
+| Full-Stack Engineering | Frontend, backend, APIs, and databases |
+| System Design | Architecture and software engineering principles |
+
+<br/>
+
+## GitHub Overview
 
 <div align="center">
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-1e293b?style=flat-square&logo=tensorflow&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Advanced%20DSA-1e293b?style=flat-square&logo=leetcode&logoColor=white)
-![System Design](https://img.shields.io/badge/System%20Design-1e293b?style=flat-square&logo=googlecloud&logoColor=white)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SrujanRanganath&show_icons=true&hide_border=true&bg_color=0b1120&title_color=e2e8f0&text_color=94a3b8&icon_color=94a3b8" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrujanRanganath&layout=compact&hide_border=true&bg_color=0b1120&title_color=e2e8f0&text_color=94a3b8" />
 
 </div>
+
+<br/>
+
+---
 
 <div align="center">
 
-<h3><i>Learning. Building. Improving. Every day.</i></h3>
+### Learn with intent. Build with purpose. Engineer with precision.
 
-<img src="https://komarev.com/ghpvc/?username=SrujanRanganath&style=flat-square&label=Profile+Views"/>
+**Open to meaningful collaborations, software engineering opportunities, and challenging problems.**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/srujan-ranganath-46353130a/">CONNECT ON LINKEDIN</a>
 
 </div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer"/>
